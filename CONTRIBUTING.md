@@ -13,7 +13,7 @@ Thanks for considering a contribution! To keep this list useful, please follow t
 Add your entry in the appropriate category, keeping alphabetical order within that category:
 
 ```markdown
-- **[Tool Name](https://example.com)** — One factual, neutral sentence describing what it does.
+- [Tool Name](https://example.com) - One factual, neutral sentence describing what it does.
 ```
 
 - Keep descriptions **factual and neutral** — no superlatives ("best," "amazing," "#1"), no marketing language.

@@ -67,7 +67,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 
 - [Google Ads](https://ads.google.com) - Advertising platform for running paid video, display, and search campaigns across YouTube, Google Search, and partner sites.
 - [Meta Ads](https://www.facebook.com/business/ads) - Advertising platform for running paid campaigns across Facebook and Instagram, including in-feed and Reels placements.
-- [Promolta](https://www.promolta.com) - Paid distribution service that promotes YouTube videos across a network of third-party publishers to drive views and subscribers; using paid view/subscriber growth services may conflict with YouTube's Terms of Service, so review those terms before use.
+- [Promolta](https://www.promolta.com) - Paid distribution service that promotes YouTube videos across a network of third-party publishers to drive views and subscribers. 
 - [Spotify Ad Studio](https://ads.spotify.com) - Self-serve platform for creating and running paid audio and video ad campaigns on Spotify.
 - [TikTok Ads](https://ads.tiktok.com) - Advertising platform for running paid in-feed and branded campaigns to promote content and accounts on TikTok.
 

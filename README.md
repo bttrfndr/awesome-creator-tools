@@ -37,6 +37,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
+- [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
 
 ## Content Planning

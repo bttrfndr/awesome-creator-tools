@@ -16,6 +16,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 
 ## Analytics
 
+- [FollowersAcheter.be Engagement Rate Calculator (French)](https://followersacheter.be/tools/engagement-rate) - Free browser calculator that expresses likes plus comments as a percentage of followers, reach, or views without an account or profile lookup.
 - [Google Analytics](https://analytics.google.com) - Free web analytics platform, commonly used by creators with their own blogs or websites.
 - [Later Analytics](https://later.com) - Social media analytics and scheduling with performance tracking across Instagram, TikTok, and Pinterest.
 - [Social Blade](https://socialblade.com) - Tracks public statistics and growth trends for YouTube, Twitch, Instagram, and other platforms.

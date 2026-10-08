@@ -43,6 +43,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Content Planning
 
 - [Airtable](https://airtable.com) - Spreadsheet-database hybrid used for tracking content ideas, sponsorships, and publishing schedules.
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Searches indexed YouTube transcripts for timestamped source passages to support content research.
 - [Google Calendar](https://calendar.google.com) - Widely used for scheduling recording, editing, and publishing deadlines.
 - [Milanote](https://milanote.com) - Visual board tool for organizing ideas, scripts, and mood boards.
 - [Notion](https://www.notion.so) - Flexible workspace commonly used by creators for content calendars and script drafting.

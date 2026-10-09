@@ -47,6 +47,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Milanote](https://milanote.com) - Visual board tool for organizing ideas, scripts, and mood boards.
 - [Notion](https://www.notion.so) - Flexible workspace commonly used by creators for content calendars and script drafting.
 - [Trello](https://trello.com) - Kanban-style board tool used for planning content pipelines and production stages.
+- [WeWorkBuddy](https://weworkbuddy.com/) - Topic research for AI creators using traceable Hacker News, GitHub, and publisher sources.
 
 ## Community Tools
 

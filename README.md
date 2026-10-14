@@ -67,6 +67,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Promotion & Advertising
 
 - [Google Ads](https://ads.google.com) - Advertising platform for running paid video, display, and search campaigns across YouTube, Google Search, and partner sites.
+- [looot ads](https://github.com/loootai/looot-ads) - Open-source (MIT) app that pulls competitors' ads from the Meta, Google, LinkedIn and TikTok ad libraries into one board, with each lookup paid per call through the looot data API.
 - [Meta Ads](https://www.facebook.com/business/ads) - Advertising platform for running paid campaigns across Facebook and Instagram, including in-feed and Reels placements.
 - [Promolta](https://www.promolta.com) - Paid distribution service that promotes YouTube videos across a network of third-party publishers to drive views and subscribers. 
 - [Spotify Ad Studio](https://ads.spotify.com) - Self-serve platform for creating and running paid audio and video ad campaigns on Spotify.

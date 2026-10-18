@@ -55,6 +55,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Discourse](https://www.discourse.org) - Open-source forum software for building long-form community discussion spaces.
 - [Patreon](https://www.patreon.com) - Membership platform allowing creators to offer paid tiers and exclusive content to supporters.
 - [StreamElements](https://streamelements.com) - Chatbot, alerts, and community engagement tools for live streamers.
+- [T-Social](https://t-social.me/creators/) - Telegram Mini App where creators share short clips and AI chat characters with their audience (18+).
 
 ## Learning Resources
 

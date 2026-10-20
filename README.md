@@ -58,6 +58,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 
 ## Learning Resources
 
+- [AI Video Prompts](https://imgmov.com/blog/2026-07-08-ai-video-prompts) - Guide to structuring subject motion, camera direction, and lighting in an AI-video prompt, with examples.
 - [Google's Primer](https://www.yourprimer.com) - Free bite-sized business and marketing lessons relevant to creator entrepreneurship.
 - [r/NewTubers](https://www.reddit.com/r/NewTubers/) - Community subreddit for creators sharing advice and feedback.
 - [Skillshare Creator Classes](https://www.skillshare.com) - Subscription platform with courses on video editing, content strategy, and design.

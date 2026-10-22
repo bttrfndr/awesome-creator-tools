@@ -53,7 +53,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Circle](https://circle.so) - Community platform for hosting discussions, courses, and events outside of social media.
 - [Discord](https://discord.com) - Platform for building and moderating creator communities via text, voice, and video channels.
 - [Discourse](https://www.discourse.org) - Open-source forum software for building long-form community discussion spaces.
-- [OpenSparta](https://opensparta.com/en) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+- [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 - [Patreon](https://www.patreon.com) - Membership platform allowing creators to offer paid tiers and exclusive content to supporters.
 - [StreamElements](https://streamelements.com) - Chatbot, alerts, and community engagement tools for live streamers.
 

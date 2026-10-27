@@ -63,6 +63,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Skillshare Creator Classes](https://www.skillshare.com) - Subscription platform with courses on video editing, content strategy, and design.
 - [Think Media (YouTube channel)](https://www.youtube.com/@ThinkMediaTV) - Long-running channel covering video gear, YouTube strategy, and creator business advice.
 - [YouTube Creator Academy](https://creatoracademy.youtube.com) - Official YouTube courses covering channel growth, monetization, and production.
+- [YouTube Starter Guide](https://creator.taoliapp.com/) - Free Chinese-language YouTube starter knowledge base for creators (account setup, policy, monetization; official sources preferred).
 
 ## Promotion & Advertising
 

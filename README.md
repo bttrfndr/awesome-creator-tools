@@ -5,6 +5,7 @@
 Content creation spans video, audio, and written formats across many platforms. This list collects tools that help creators plan, produce, optimize, and grow their work — organized by category so you can find what's relevant to your workflow.
 
 ## Contents
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 - [Analytics](#analytics)
 - [SEO](#seo)

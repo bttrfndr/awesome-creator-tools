@@ -55,6 +55,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Discourse](https://www.discourse.org) - Open-source forum software for building long-form community discussion spaces.
 - [Patreon](https://www.patreon.com) - Membership platform allowing creators to offer paid tiers and exclusive content to supporters.
 - [StreamElements](https://streamelements.com) - Chatbot, alerts, and community engagement tools for live streamers.
+- [My Nine Games](https://myninegames.com) - Free 3x3 game-grid maker for sharing the nine games that shaped you; export a PNG or share a link, no account needed.
 
 ## Learning Resources
 

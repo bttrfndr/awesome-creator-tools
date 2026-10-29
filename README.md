@@ -5,7 +5,6 @@
 Content creation spans video, audio, and written formats across many platforms. This list collects tools that help creators plan, produce, optimize, and grow their work — organized by category so you can find what's relevant to your workflow.
 
 ## Contents
-
 - [Analytics](#analytics)
 - [SEO](#seo)
 - [Video Editing](#video-editing)
@@ -37,6 +36,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
 

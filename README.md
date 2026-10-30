@@ -17,6 +17,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Analytics
 
 - [Google Analytics](https://analytics.google.com) - Free web analytics platform, commonly used by creators with their own blogs or websites.
+- [igtrackr](https://igtrackr.com) - Tracks follower changes, engagement rate and hashtags for public Instagram profiles.
 - [Later Analytics](https://later.com) - Social media analytics and scheduling with performance tracking across Instagram, TikTok, and Pinterest.
 - [Social Blade](https://socialblade.com) - Tracks public statistics and growth trends for YouTube, Twitch, Instagram, and other platforms.
 - [Streamlabs Analytics](https://streamlabs.com) - Analytics and dashboard tools for live streamers on Twitch and YouTube.

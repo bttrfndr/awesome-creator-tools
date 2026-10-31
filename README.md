@@ -39,6 +39,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
+- [Voqusa](https://www.voqusa.com/en/free/facebook-transcript) - Web tool that turns TikTok, YouTube, Instagram and Facebook videos into text transcripts; requires a free signup with 5 free credits.
 
 ## Content Planning
 

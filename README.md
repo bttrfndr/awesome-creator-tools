@@ -20,6 +20,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Later Analytics](https://later.com) - Social media analytics and scheduling with performance tracking across Instagram, TikTok, and Pinterest.
 - [Social Blade](https://socialblade.com) - Tracks public statistics and growth trends for YouTube, Twitch, Instagram, and other platforms.
 - [Streamlabs Analytics](https://streamlabs.com) - Analytics and dashboard tools for live streamers on Twitch and YouTube.
+- [TKMetrics](https://tkmetrics.com) - TikTok creator statistics, hashtag trends and earnings estimates built from public TikTok data, with the method behind each number shown on the page.
 - [TubeBuddy](https://www.tubebuddy.com) - Browser extension offering YouTube channel management, keyword research, A/B testing, and performance analytics.
 - [vidIQ](https://vidiq.com) - Browser extension and dashboard providing YouTube channel analytics, keyword scoring, and competitor tracking.
 

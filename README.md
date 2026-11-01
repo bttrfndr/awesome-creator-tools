@@ -33,6 +33,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Video Editing
 
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Industry-standard subscription-based video editing software.
+- [Barz Studio](https://barzvideo.com/?utm_source=awesome-creator-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser editor that turns your track into a beat-reactive rap lyric video (9:16 WebM).
 - [CapCut](https://www.capcut.com) - Free cross-platform video editor popular for short-form vertical video.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.

@@ -38,6 +38,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
+- [Repostit Clips](https://repostit.io/clips/) - Finds and scores highlights in long videos, then schedules short clips across social apps.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
 
 ## Content Planning

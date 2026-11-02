@@ -68,10 +68,10 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Promotion & Advertising
 
 - [Google Ads](https://ads.google.com) - Advertising platform for running paid video, display, and search campaigns across YouTube, Google Search, and partner sites.
+- [HornyIndex](https://hornyindex.com) - Search engine for creators on OnlyFans, Fansly and other subscription platforms, where creators can claim a free listing so fans can find them by niche, price and location.
 - [Meta Ads](https://www.facebook.com/business/ads) - Advertising platform for running paid campaigns across Facebook and Instagram, including in-feed and Reels placements.
 - [Promolta](https://www.promolta.com) - Paid distribution service that promotes YouTube videos across a network of third-party publishers to drive views and subscribers. 
 - [Spotify Ad Studio](https://ads.spotify.com) - Self-serve platform for creating and running paid audio and video ad campaigns on Spotify.
-- [TastyFans](https://tastyfans.com) - Search engine for creators on OnlyFans, Fansly and other subscription platforms, where creators can claim a free listing so fans can find them by niche, price and location.
 - [TikTok Ads](https://ads.tiktok.com) - Advertising platform for running paid in-feed and branded campaigns to promote content and accounts on TikTok.
 
 ## Contributing

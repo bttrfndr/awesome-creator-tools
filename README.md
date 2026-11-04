@@ -53,9 +53,9 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Circle](https://circle.so) - Community platform for hosting discussions, courses, and events outside of social media.
 - [Discord](https://discord.com) - Platform for building and moderating creator communities via text, voice, and video channels.
 - [Discourse](https://www.discourse.org) - Open-source forum software for building long-form community discussion spaces.
+- [Flirt Social](https://t-social.me/creators/) - Telegram Mini App where creators share short clips and AI chat characters with their audience (18+).
 - [Patreon](https://www.patreon.com) - Membership platform allowing creators to offer paid tiers and exclusive content to supporters.
 - [StreamElements](https://streamelements.com) - Chatbot, alerts, and community engagement tools for live streamers.
-- [T-Social](https://t-social.me/creators/) - Telegram Mini App where creators share short clips and AI chat characters with their audience (18+).
 
 ## Learning Resources
 

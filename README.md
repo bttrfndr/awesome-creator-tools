@@ -46,6 +46,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Google Calendar](https://calendar.google.com) - Widely used for scheduling recording, editing, and publishing deadlines.
 - [Milanote](https://milanote.com) - Visual board tool for organizing ideas, scripts, and mood boards.
 - [Notion](https://www.notion.so) - Flexible workspace commonly used by creators for content calendars and script drafting.
+- [ORANO](https://oranoai.com) - Turns saved Reels, TikToks, YouTube videos, and articles into searchable summaries and step-by-step plans.
 - [Trello](https://trello.com) - Kanban-style board tool used for planning content pipelines and production stages.
 
 ## Community Tools

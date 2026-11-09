@@ -39,6 +39,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
+- [Vidmoat](https://www.vidmoat.com) - Hosted AI video editor where edits described in chat are applied to a multi-track timeline that can be reviewed, adjusted and rendered to MP4; it has a free plan.
 
 ## Content Planning
 

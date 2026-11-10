@@ -37,6 +37,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
+- [Imagera](https://imagera.ai) - Browser studio that generates and edits AI video and images with many models side by side, with consistent characters across clips.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
 

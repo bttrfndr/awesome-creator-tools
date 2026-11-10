@@ -26,6 +26,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## SEO
 
 - [Ahrefs](https://ahrefs.com) - SEO toolset for keyword research, backlink analysis, and content gap analysis, usable for blog and video metadata.
+- [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) - Free Claude Code plugin for site audits, keyword grouping, content briefs, and structured data.
 - [AnswerThePublic](https://answerthepublic.com) - Visualizes common search questions and phrases around a given topic or keyword.
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free keyword research tool from Google Ads, useful for search-volume estimates.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Keyword and content idea generator with basic SEO metrics.

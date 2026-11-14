@@ -39,6 +39,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - [Shotcut](https://shotcut.org) - Free, open-source cross-platform video editor.
+- [VHS Filter](https://vhsfilter.com/) - Adds VHS-style effects to video in the browser, with presets and controls for tracking noise and scan lines.
 
 ## Content Planning
 

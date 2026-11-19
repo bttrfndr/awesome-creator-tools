@@ -33,6 +33,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 ## Video Editing
 
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Industry-standard subscription-based video editing software.
+- [Beav](https://beav.pro/en) - Desktop workspace for drafting complete Xiaohongshu (小红书) posts, producing talking-avatar videos (数字人口播), and editing media from a local asset library.
 - [CapCut](https://www.capcut.com) - Free cross-platform video editor popular for short-form vertical video.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.

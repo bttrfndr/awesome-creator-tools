@@ -47,6 +47,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Milanote](https://milanote.com) - Visual board tool for organizing ideas, scripts, and mood boards.
 - [Notion](https://www.notion.so) - Flexible workspace commonly used by creators for content calendars and script drafting.
 - [Trello](https://trello.com) - Kanban-style board tool used for planning content pipelines and production stages.
+- [Wavegrain](https://wavegrain.com) - Paid tool that writes and designs TikTok slideshows and Instagram carousels from a brand's own photos, with a content calendar for scheduling and posting them.
 
 ## Community Tools
 

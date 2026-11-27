@@ -35,6 +35,7 @@ Content creation spans video, audio, and written formats across many platforms. 
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Industry-standard subscription-based video editing software.
 - [CapCut](https://www.capcut.com) - Free cross-platform video editor popular for short-form vertical video.
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Free, open-source Windows app that cuts long videos and Twitch, Kick or YouTube streams into captioned vertical clips, with AI that runs on your own PC.
+- [ClipsPal](https://www.clipspal.com/) - Cuts failed takes and pauses from recordings and exports captioned vertical clips.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free, professional-grade video editing and color-grading software.
 - [Descript](https://www.descript.com) - Editor that lets you edit video and audio by editing a text transcript.
 - [HandBrake](https://handbrake.fr) - Free, open-source tool for converting and compressing video files.
